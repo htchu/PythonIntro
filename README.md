@@ -1,4 +1,4 @@
-# AQuick Python Tutorial 
+# Asia Univ. Quick Python Tutorial 
 
 ## Azure Notebooks
 
