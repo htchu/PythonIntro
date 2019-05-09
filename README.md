@@ -1,4 +1,4 @@
-# Python教學範例
+# AQuick Python Tutorial 
 
 ## Azure Notebooks
 
